@@ -1,1 +1,1 @@
-console.log(mortal kombat);
+console.log("mortal kombat");
